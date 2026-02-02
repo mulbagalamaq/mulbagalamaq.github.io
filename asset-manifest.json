@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feb4555d.css",
+    "main.js": "/static/js/main.83d2a2e1.js",
+    "static/css/64.5c5317b3.chunk.css": "/static/css/64.5c5317b3.chunk.css",
+    "static/js/64.23d51abe.chunk.js": "/static/js/64.23d51abe.chunk.js",
+    "static/css/769.d01f3eba.chunk.css": "/static/css/769.d01f3eba.chunk.css",
+    "static/js/769.50d61046.chunk.js": "/static/js/769.50d61046.chunk.js",
+    "static/media/ridgeline_enrichment_scores.png": "/static/media/ridgeline_enrichment_scores.7257c41d5e85e04412ab.png",
+    "static/media/lab_work_image1.png": "/static/media/lab_work_image1.3bbf5521a22ecb97db9b.png",
+    "static/media/poster_presentation_image.png": "/static/media/poster_presentation_image.72559004471ad3ef0253.png",
+    "static/media/Coverpic.png": "/static/media/Coverpic.78a853e68d3a93fbf49b.png",
+    "static/media/EOPC_association_plots.png": "/static/media/EOPC_association_plots.45ae218c8934d18cf068.png",
+    "static/media/resume.pdf": "/static/media/resume.16ffa5012f8f64448e1f.pdf",
+    "static/media/northeasternLogo.jpg": "/static/media/northeasternLogo.d85a764055e26e1f236d.jpg",
+    "static/media/biological_pathway_diagram.png": "/static/media/biological_pathway_diagram.c803de7b2e11f1bd19c1.png",
+    "static/media/aws_hackathon_group_photo.jpeg": "/static/media/aws_hackathon_group_photo.aeddff862343bdb4b1dc.jpeg",
+    "static/media/bioit_conference_photo.png": "/static/media/bioit_conference_photo.2be7ea5e7a1cd1a32bd7.png",
+    "static/media/mean_dispersion_plots.png": "/static/media/mean_dispersion_plots.5948105ff10fe19cb1bd.png",
+    "static/media/ATAC_Peaks.png": "/static/media/ATAC_Peaks.b99c0d9b206a446f444f.png",
+    "static/media/glycoenzyme_workflow_diagram.png": "/static/media/glycoenzyme_workflow_diagram.634939f8c2720994dc9e.png",
+    "static/media/kaplan_meier_survival_curve.png": "/static/media/kaplan_meier_survival_curve.8abc66862cb6269d64f2.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/fastqc_mean_quality_scores.jpg": "/static/media/fastqc_mean_quality_scores.6726ee34982a4c3c6457.jpg",
+    "static/media/nasa_genelab_logo.jpeg": "/static/media/nasa_genelab_logo.94fabf2292354d2af942.jpeg",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.feb4555d.css.map": "/static/css/main.feb4555d.css.map",
+    "main.83d2a2e1.js.map": "/static/js/main.83d2a2e1.js.map",
+    "64.5c5317b3.chunk.css.map": "/static/css/64.5c5317b3.chunk.css.map",
+    "64.23d51abe.chunk.js.map": "/static/js/64.23d51abe.chunk.js.map",
+    "769.d01f3eba.chunk.css.map": "/static/css/769.d01f3eba.chunk.css.map",
+    "769.50d61046.chunk.js.map": "/static/js/769.50d61046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb4555d.css",
+    "static/js/main.83d2a2e1.js"
+  ]
+}
